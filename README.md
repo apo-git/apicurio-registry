@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/apo-git/apicurio-registry/graph/badge.svg?token=N1FHZVXWG2)](https://codecov.io/gh/apo-git/apicurio-registry)
+
 [![Verify Build Workflow](https://github.com/Apicurio/apicurio-registry/workflows/Verify%20Build%20Workflow/badge.svg)](https://github.com/Apicurio/apicurio-registry/actions?query=workflow%3A%22Verify+Build+Workflow%22)
 [![Join the chat on CNCF Slack](https://img.shields.io/badge/slack-join_chat-brightgreen.svg)](https://cloud-native.slack.com/archives/C0BDWTC1DTM)
 [![Automated Release Notes by gren](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
