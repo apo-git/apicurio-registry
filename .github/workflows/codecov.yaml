@@ -49,7 +49,6 @@ jobs:
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
           files: app/target/site/jacoco/jacoco.xml
-          flags: app
           fail_ci_if_error: true
 
       - name: Keep the HTML report as a build artifact
